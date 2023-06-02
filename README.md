@@ -36,9 +36,8 @@
 
   Project Demo       |Libraries and Technologies I use     |Project Preview   
 :-------------------------|-------------------------|-------------------------
-[E-Commerce-API](https://github.com/Olcaytp/TourApp/blob/master/img/3.jpeg)<h3 align="center">[Repo](https://github.com/Olcaytp/TourApp)</h3> | C#, ASP .NET, HTML, Css, Bootstrap | ![Tour-App](https://github.com/Olcaytp/TourApp/blob/master/img/3.jpeg)
-[MicroserviceProject](https://github.com/Olcaytp/kanban-notebook/blob/master/src/assets/2.jpeg)<h3 align="center">[Repo](https://github.com/Olcaytp/kanban-notebook)</h3> | Angular, HTML, Scss, TypeScript | ! 
-[EasyCashIdentityProject](https://github.com/Olcaytp/AYS-angular-apartment-management-system-thesis-project/blob/master/src/assets/images/Apartment-Management-System.png)<h3 align="center">[Repo](https://github.com/Olcaytp/AYS-angular-apartment-management-system-thesis-project)</h3> | Angular, HTML, Css, JavaScript, Firebase | ![AYS-angular-apartment-management-system-thesis-project](https://github.com/Olcaytp/AYS-angular-apartment-management-system-thesis-project/blob/master/src/assets/images/Apartment-Management-System.png)
-
+[E-Commerce-API](https://github.com/EyupKhrmn/ETicaretAPIProject)<h3 align="center">[Repo](https://github.com/Olcaytp/TourApp)</h3> | C#, ASP .NET, HTML, Css, Bootstrap, Angular |
+[MicroserviceProject](https://github.com/EyupKhrmn/MicroserviceProject)<h3 align="center">[Repo](https://github.com/Olcaytp/kanban-notebook)</h3> | C#, Ef Core |  
+[EasyCashIdentityProject](https://github.com/EyupKhrmn/EasyCashIdentityProject)<h3 align="center">[Repo](https://github.com/Olcaytp/AYS-angular-apartment-management-system-thesis-project)</h3> | C#, HTML, Css, Ef Core
 
 
