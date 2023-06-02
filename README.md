@@ -25,10 +25,12 @@
 </p> 
 
 <h2 align="center">:rocket:Technical Skills</h2>
+<div align="center">
     <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="60" alt="css" />
     <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/docker_aladdinGene.png" width="60" alt="css" />
     <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/csharp_aladdinGene.png" width="60" alt="css" />
     <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/aws_aladdinGene.gif" width="60" alt="css" />
+  </div>
 <h2 align="center"> My projects</h2>
 ###
 
