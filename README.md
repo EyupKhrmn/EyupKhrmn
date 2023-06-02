@@ -27,7 +27,8 @@
 <h2 align="center">:rocket:Technical Skills</h2>
     <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="60" alt="css" />
     <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/docker_aladdinGene.png" width="60" alt="css" />
-    <img src="https://www.bing.com/images/search?view=detailV2&ccid=1DMzDfvY&id=268D5C4AE11184631E2606968ED0CEF3DBCFCC56&thid=OIP.1DMzDfvYXxnpPrflltihZwHaHa&mediaurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.d433330dfbd85f19e93eb7e596d8a167%3frik%3dVszP2%252fPO0I6WBg%26riu%3dhttp%253a%252f%252faswdc.in%252fFront%252fassets%252fimg%252flogo%252fnet.png%26ehk%3dqUeI%252btE6n%252bmCP3H6u8E4%252bstfxfN1tC9qgYC13hRYknA%253d%26risl%3d%26pid%3dImgRaw%26r%3d0&exph=700&expw=700&q=.Net+Logo&simid=607990219415056145&FORM=IRPRST&ck=293EF4E2E905FC2740C93A4F4E769A80&selectedIndex=11&ajaxhist=0&ajaxserp=0" width="60" alt="css" />
+    <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/csharp_aladdinGene.png" width="60" alt="css" />
+    <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/aws_aladdinGene.gif" width="60" alt="css" />
 <h2 align="center"> My projects</h2>
 ###
 
