@@ -34,9 +34,6 @@
 <h2 align="center">My Projects That Are Superior To Others</h2>
 
 
-###########################################################################################################
-
-
   Project Demo       |Libraries and Technologies I use  
 :-------------------------|-------------------------|
 [E-Commerce-API](https://github.com/EyupKhrmn/ETicaretAPIProject)<h3 align="center">[Repo](https://github.com/Olcaytp/TourApp)</h3> | C#, ASP .NET, HTML, Css, Bootstrap, Angular |
