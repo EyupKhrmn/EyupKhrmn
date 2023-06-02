@@ -8,13 +8,13 @@
 
 <div align="center">
 
- 🌱 I  develope with **Angular/JavaScript-TypeScript**
+ 🌱 I  develope with **.Net Project and APIs**
 
- 👨‍💻 All of my informations you can see at [olcaytapan-portfolio](https://olcaytapan-portfolio.netlify.app/)
+ 👨‍💻 All of my informations you can see at Linkedln
 
- 💬 Ask me about **TypeScript and JavaScript**
+ 💬 Ask me about **.Net/Core and Ef Core**
 
- 📫 How to reach me **olcaytapan10@gmail.com**
+ 📫 How to reach me **eyupkhrmn45@gmail.com**
   </div>
 
 <h3 align="center">Connect with me:</h3>
