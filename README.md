@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Olcay</h1>
+<h1 align="center">Hi 👋 I'm Eyüp</h1>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="100"/>
 </div>
@@ -19,13 +19,14 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/olcaytdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="olcaytdev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/olcaytapan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="olcaytapan" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/olcaytapan10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="olcaytapan10" height="30" width="40" /></a>
-<a href="https://discord.gg/Olcay#8896" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Olcay#8896" height="30" width="40" /></a>
+<a href="https://twitter.com/eypkhrmn45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="olcaytdev" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/eyupkhrmn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="olcaytapan" height="30" width="40" /></a>
+<a href="https://discord.gg/Eyüp Kahraman#1074" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Olcay#8896" height="30" width="40" /></a>
 </p> 
 
 <h2 align="center">:rocket:Technical Skills</h2>
+<img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/html_aladdinGene.png" width="60" alt="html" />
+    <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="60" alt="css" />
 <h2 align="center"> My projects</h2>
 ###
 
