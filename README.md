@@ -34,8 +34,8 @@
 <h2 align="center"> My projects</h2>
 ###
 
-  Project Demo       |Libraries and Technologies I use     |Project Preview   
-:-------------------------|-------------------------|-------------------------
+  Project Demo       |Libraries and Technologies I use  
+:-------------------------|-------------------------|
 [E-Commerce-API](https://github.com/EyupKhrmn/ETicaretAPIProject)<h3 align="center">[Repo](https://github.com/Olcaytp/TourApp)</h3> | C#, ASP .NET, HTML, Css, Bootstrap, Angular |
 [MicroserviceProject](https://github.com/EyupKhrmn/MicroserviceProject)<h3 align="center">[Repo](https://github.com/Olcaytp/kanban-notebook)</h3> | C#, Ef Core |  
 [EasyCashIdentityProject](https://github.com/EyupKhrmn/EasyCashIdentityProject)<h3 align="center">[Repo](https://github.com/Olcaytp/AYS-angular-apartment-management-system-thesis-project)</h3> | C#, HTML, Css, Ef Core
