@@ -38,6 +38,11 @@
 :-------------------------|-------------------------|
 [E-Commerce-API](https://github.com/EyupKhrmn/ETicaretAPIProject)<h3 align="center">[Repo](https://github.com/EyupKhrmn/ETicaretAPIProject)</h3> | C#, ASP .NET, HTML, Css, Bootstrap, Angular |
 [MicroserviceProject](https://github.com/EyupKhrmn/MicroserviceProject)<h3 align="center">[Repo](https://github.com/EyupKhrmn/MicroserviceProject)</h3> | C#, Ef Core |  
-[EasyCashIdentityProject](https://github.com/EyupKhrmn/EasyCashIdentityProject)<h3 align="center">[Repo](https://github.com/EyupKhrmn/EasyCashIdentityProject)</h3> | C#, HTML, Css, Ef Core
+[EasyCashIdentityProject](https://github.com/EyupKhrmn/EasyCashIdentityProject)<h3 align="center">[Repo](https://github.com/EyupKhrmn/EasyCashIdentityProject)</h3> | C#, HTML, Css, Ef Core 
+
+
+Exmaples |RabbitMQ Examples|Redis Examples|EF CORE Example|AWS S3 Example|Exception Middleware|JWT Token Example|Swagger Example|CQRS Example| 
+-- | -- | -- | -- |-- |-- |-- |-- |--
+Links | [RabbitMQ.Example](https://github.com/EyupKhrmn/RabbitMQ.Example) | [Redis.Example](https://github.com/EyupKhrmn/RedisExamples) | [EF-Core-Example](https://github.com/EyupKhrmn/EF-Core-Training) | [AWS-S3-Example](https://github.com/EyupKhrmn/AWS_S3_Web_API) | [Exception Middlaware](https://github.com/EyupKhrmn/ExceptionMiddleware) | [JWT-Token-Auth](https://github.com/EyupKhrmn/JWT_Token_Auth) | [SwaggerByOcelot](https://github.com/EyupKhrmn/SwaggerByOcelot) | [CQRS_Pattern](https://github.com/EyupKhrmn/CQRS_Pattern)
 
 
