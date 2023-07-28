@@ -4,7 +4,7 @@
 </div>
 <h3 align="center">A passionate Software Developer from Turkey</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=olcaytp&label=Profile%20views&color=0e75b6&style=flat" alt="olcaytp" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=EyupKhrmn&label=Profile%20views&color=0e75b6&style=flat" alt="olcaytp" /> </p>
 
 <div align="center">
 
