@@ -49,6 +49,6 @@ Exmaples |RabbitMQ Examples|Redis Examples|EF CORE Example|AWS S3 Example|Except
 -- | -- | -- | -- |-- |-- |-- |-- 
 Links | [RabbitMQ.Example](https://github.com/EyupKhrmn/RabbitMQ.Example) | [Redis.Example](https://github.com/EyupKhrmn/RedisExamples) | [EF-Core-Example](https://github.com/EyupKhrmn/EF-Core-Training) | [AWS-S3-Example](https://github.com/EyupKhrmn/AWS_S3_Web_API) | [Exception Middlaware](https://github.com/EyupKhrmn/ExceptionMiddleware) | [JWT-Token-Auth](https://github.com/EyupKhrmn/JWT_Token_Auth) | [SwaggerByOcelot](https://github.com/EyupKhrmn/SwaggerByOcelot) |
 
-Examples |CQRS Example |SignalR Server Example |Refit Example |Boilerplate Example
+Examples |CQRS Example |SignalR Server Example |Refit Example |Boilerplate Example |Quartz Job Example
 -- | -- | -- | -- | -- |
-Links | [CQRS-Pattern](https://github.com/EyupKhrmn/CQRS_Pattern) | [SignalR-Server-Example](https://github.com/EyupKhrmn/SignalRServerExample) | [Refit-Example](https://github.com/EyupKhrmn/RefitExample) | [Boilerplate-Example](https://github.com/EyupKhrmn/BoilerplateExample)
+Links | [CQRS-Pattern](https://github.com/EyupKhrmn/CQRS_Pattern) | [SignalR-Server-Example](https://github.com/EyupKhrmn/SignalRServerExample) | [Refit-Example](https://github.com/EyupKhrmn/RefitExample) | [Boilerplate-Example](https://github.com/EyupKhrmn/BoilerplateExample) | [Job-Example](https://github.com/EyupKhrmn/Quartz.NetJobsExample)
